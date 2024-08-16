@@ -1,5 +1,6 @@
-﻿NOMBRE;APELLIDO;UNIVERSIDAD;EDAD
-Odalis;Clemente;UNEMI;25
-Matheo;Morales;PUCE;24
-Karen;Ortega;UNAE ;24
-Juan;Pozo;USFQ;24
+﻿NOMBRE,APELLIDO,UNIVERSIDAD,EDAD
+Odalis,Clemente,UNEMI,25
+Matheo,Morales,PUCE,24
+Karen,Ortega,UNAE,24
+Juan,Pozo,USFQ,24
+Ana Belen,Marcillo,UDLA,25
